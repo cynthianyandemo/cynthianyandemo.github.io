@@ -1,2 +1,4 @@
 # cynthianyandemo.github.io
-my website
+Hello world.
+
+this is a little bit about mei will be updating this website soon
